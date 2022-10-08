@@ -1,6 +1,6 @@
 # my_language_model
 ## Overview
-There are my sample code of natural language generative models, and their objective is translation, usually from chinese to english. This is an interesting topic since the debate of MLE and GAN on NLP in [Caccia+18])(https://arxiv.org/abs/1811.02549.
+There are my sample code of natural language generative models, and their objective is translation, usually from chinese to english. This is an interesting topic since the debate of MLE and GAN on NLP in [Caccia+18](https://arxiv.org/abs/1811.02549).
 
 ## Model and algorithm
 I use Transformer in [Vaswani+17](https://arxiv.org/abs/1706.03762) as my model, and the objective is maximize likelihood estimation(MLE). 
